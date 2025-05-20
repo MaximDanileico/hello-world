@@ -1,0 +1,20 @@
+{
+    "name": "mdani/hello-world",
+    "description": "Hello world",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mdani\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MDani",
+            "email": "mdannileico@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {},
+    "license": "MIT"
+}
